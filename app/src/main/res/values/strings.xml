@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab4LocalisationActivityLayoutsIntents</string>
+    <string name="country">Canada!</string>
+    <string name="flag">Canada Flag</string>
+</resources>
